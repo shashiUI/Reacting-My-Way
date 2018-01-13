@@ -1,0 +1,29 @@
+{
+  "name": "lesson_1",
+  "version": "1.0.0",
+  "description": "HelloWorld",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashiUI/Reacting-My-Way.git"
+  },
+  "keywords": [
+    "Shashi_reacts"
+  ],
+  "author": "Shashi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashiUI/Reacting-My-Way/issues"
+  },
+  "homepage": "https://github.com/shashiUI/Reacting-My-Way#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.10.1"
+  },
+  "devDependencies": {}
+}
